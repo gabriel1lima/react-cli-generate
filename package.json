@@ -1,6 +1,6 @@
 {
   "name": "react-cli-generate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "react-cli-generate CLI",
   "bin": {
     "react-cli-generate": "bin/react-cli-generate"
