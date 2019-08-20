@@ -1,11 +1,6 @@
-# react-cli-generate CLI
+# react-cli-generate
 
-A CLI for react-cli-generate.
-
-## Customizing your CLI
-
-Check out the documentation at https://github.com/infinitered/gluegun/tree/master/docs.
- 
+A CLI for generating components and pages for a React Native project.
 
 ## Commands
 
@@ -28,3 +23,7 @@ $ help
 # License
 
 MIT
+
+## GitHub Repository
+
+https://github.com/gabriel1lima/react-cli-generate
